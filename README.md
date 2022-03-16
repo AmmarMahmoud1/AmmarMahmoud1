@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AmmarMahmoud1
 - 👀 I’m interested in Webdeveloper jobs in ASP.NET Core mvc
 - 🌱 I’m currently learning asp core, entity framework, angular and bootsrap
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Ammar.hendawi@gmail.com || +4917643371288
 
 <!---
